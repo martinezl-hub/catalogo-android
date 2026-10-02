@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo",
+  "description": "Aplicación de catálogo de productos con operaciones CRUD completas y almacenamiento local mediante Room Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

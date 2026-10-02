@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Catálogo</string>
+    <string name="app_title">Catálogo de Productos</string>
+    <string name="add_product">Nuevo Producto</string>
+    <string name="edit_product">Editar Producto</string>
+    <string name="delete_product">Eliminar Producto</string>
+    <string name="product_details">Detalle del Producto</string>
+    <string name="search_placeholder">Buscar por nombre o descripción…</string>
+    <string name="all_categories">Todos</string>
+    <string name="no_products_found">No se encontraron productos</string>
+    <string name="empty_catalog_title">Catálogo Vacío</string>
+    <string name="empty_catalog_subtitle">Aún no has registrado ningún producto. Agrega uno nuevo o carga los datos de demostración para comenzar.</string>
+    <string name="load_demo_data">Cargar datos de prueba</string>
+    <string name="delete_confirm_title">¿Eliminar producto?</string>
+    <string name="delete_confirm_message">¿Estás seguro de que deseas eliminar este producto? Esta acción no se puede deshacer.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+    <string name="close">Cerrar</string>
+</resources>
